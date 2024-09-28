@@ -1,5 +1,5 @@
 #nginx
-#xhofe/alist:latest
+xhofe/alist:latest
 
 # wangxian/alpine-php:latest
 # wangxian/alpine-php:v7.4.29
@@ -33,9 +33,9 @@
 # wangxian/alpine-java:jre11
 # wangxian/alpine-java:jre8
 
-caddy:2.6-alpine
-caddy:2.7-alpine
-caddy:2.8-alpine
+#caddy:2.6-alpine
+#caddy:2.7-alpine
+#caddy:2.8-alpine
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
