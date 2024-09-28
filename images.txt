@@ -1,1 +1,1 @@
-caddy:2.7-alpine
+caddy:2.8-alpine
