@@ -1,4 +1,6 @@
-wangxian/alpine-python:3.11
-wangxian/alpine-python:3.11.10
-wangxian/alpine-python:3.12
-wangxian/alpine-python:3.12.17
+wangxian/as-ping:v5.17.1
+wangxian/as-ping:v5.18.0
+wangxian/as-ping:v5.19.0
+wangxian/as-ping:v5.20.0
+wangxian/as-ping:v5.21.0
+wangxian/as-ping:v5.22.0
