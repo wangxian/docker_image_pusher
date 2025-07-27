@@ -1,7 +1,4 @@
-wangxian/as-ping:v5.31.0
-wangxian/as-ping:v5.32.0
-wangxian/as-ping:v5.33.0
-wangxian/as-ping:v5.34.0
-wangxian/as-ping:v5.35.0
-wangxian/as-ping:v5.36.0
-wangxian/as-ping:v5.37.0
+--platform=linux/arm64 wangxian/as-ping:v5.22.0
+--platform=linux/amd64 wangxian/as-ping:v5.22.0
+--platform=linux/arm64 wangxian/as-ping:v5.36.0
+--platform=linux/amd64 wangxian/as-ping:v5.36.0
