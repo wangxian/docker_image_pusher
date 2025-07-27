@@ -1,2 +1,1 @@
---platform=linux/arm64 wangxian/as-ping:v5.22.0-tproxy-debian12
---platform=linux/amd64 wangxian/as-ping:v5.22.0-tproxy-debian12
+wangxian/as-ping:v5.22.0-tproxy-debian12
