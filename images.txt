@@ -1,4 +1,5 @@
-yisier1/nps:v0.26.20
-yisier1/nps:v0.26.26
-yisier1/npc:v0.26.20
-yisier1/npc:v0.26.26
+caddybuilds/caddy-cloudflare:2.7.6
+caddybuilds/caddy-cloudflare:2.8.1
+caddybuilds/caddy-cloudflare:2.9.1
+caddybuilds/caddy-cloudflare:2.10.0
+caddybuilds/caddy-cloudflare:2.10.2
