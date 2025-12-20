@@ -1,4 +1,2 @@
-yisier1/npc:v0.26.27
-yisier1/npc:v0.26.28
-yisier1/nps:v0.26.27
-yisier1/nps:v0.26.28
+duan2001/nps:v0.33.12
+duan2001/npc:v0.33.12
