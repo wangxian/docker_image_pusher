@@ -1,2 +1,2 @@
-duan2001/nps:v0.33.12
-duan2001/npc:v0.33.12
+duan2001/nps:v0.34.1
+duan2001/npc:v0.34.1
