@@ -1,2 +1,1 @@
-duan2001/nps:v0.34.7
-duan2001/npc:v0.34.7
+ghcr.io/wg-easy/wg-easy:15.3
